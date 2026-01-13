@@ -1,8 +1,4 @@
-# Hi there! I'm Alexis 👋
-
-<p align="center" height="100em">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=If%20you%20can%20imagine%20it,%20you%20can%20program%20it&author=Alejandro%20Taboada&theme=radical" alt="Programming Quote" />
-</p>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Alexis</h1>
 
 ### 👨‍💻 About Me
 - 🎓 **Computer Systems Engineering Student** @ TecNM.
@@ -31,6 +27,20 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+
+---
+
 ### 📫 Let's Connect!
 - 📧 Institutional Email: [l22290827@cdguzman.tecnm.mx](mailto:l22290827@cdguzman.tecnm.mx)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexislessus/)
+
+---
+
+<p align="center" height="100em">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=If%20you%20can%20imagine%20it,%20you%20can%20program%20it&author=Alejandro%20Taboada&theme=radical" alt="Programming Quote" />
+</p>
