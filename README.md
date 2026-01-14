@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 - 🎓 **Computer Systems Engineering Student** @ TecNM.
 - 🚀 Currently building a **Full-Stack Habit & Task Management Web App** using React, Node.js, and MySQL.
-- 🛡️ Passionate about **DevOps**, **Web Development**, and the world of **Cloud/DevOps**.
+- 🛡️ Passionate about **Web Development**, and the world of **Cloud/DevOps**.
 
 ### 🛠️ Tech Stack
 <p align="left">
